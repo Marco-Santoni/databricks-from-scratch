@@ -11,3 +11,11 @@ Topics
 9. SparkSQL
 10. Spark Machine Learning
 11. Spark Streaming
+
+## git
+
+Notebook output can be removed via
+
+```
+jupyter nbconvert --clear-output --inplace
+```
